@@ -7,7 +7,7 @@ Nome: Guilherme Almeida Zuim
 Matricula: 840005
 
 ## Tela de inspeção com navegador
-![Print Inspeção Navegador](https://drive.google.com/file/d/1LHUJno7tCfXpSqvlhOL9aXf9UqjZbe5F/view?usp=sharing)
+![Print Inspeção Navegador](Network_Youtube2.png)
 
 ## Tela de projeto no Replit
-![Print do Projeto do Replit](https://drive.google.com/file/d/14FKuIpYebecL7glBuEuX5iT-CZn0E3AL/view?usp=sharing)
+![Print do Projeto do Replit](Print_Replit.png)
