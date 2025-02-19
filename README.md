@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Guilherme Almeida Zuim
-Matricula: 840005
+Nome: 
+Matricula: 
 
 ## Tela de inspeção com navegador
-![Print Inspeção Navegador](Network_Youtube2.png)
+
 
 ## Tela de projeto no Replit
-![Print do Projeto do Replit](Print_Replit.png)
+
